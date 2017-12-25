@@ -1,0 +1,30 @@
+{
+  "name": "raspberryalarm-server",
+  "version": "1.0.0",
+  "description": "Server-side project of Raspberry-Alarm Project",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sungdooyoo/BibloTechPi.git"
+  },
+  "keywords": [
+    "RaspberryPi",
+    "NodeJS",
+    "GPIO",
+    "JavaScript"
+  ],
+  "author": "e-sung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Sungdooyoo/BibloTechPi/issues"
+  },
+  "homepage": "https://github.com/Sungdooyoo/BibloTechPi#readme",
+  "dependencies": {
+    "express": "^4.16.2",
+    "onoff": "^1.1.9"
+  }
+}
