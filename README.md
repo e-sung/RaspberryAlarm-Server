@@ -11,6 +11,7 @@
 * `cd RaspberryAlarm-Server`
 * `npm install`
 * `node server.js`
+* [클라이언트 앱](https://github.com/e-sung/RaspberryAlarm/tree/master#2-%EC%96%B4%EB%96%BB%EA%B2%8C-%EC%84%A4%EC%B9%98%ED%95%98%EB%82%98%EC%9A%94)
 
 # 3. 어떤 기능이 추가될 예정인가요?
 * 기상시간 N분 전 부터 서서히 알람소리 커지기
